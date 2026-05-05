@@ -1,17 +1,31 @@
 <!DOCTYPE html>
-<html>
+<html lang="pt-br">
 <head>
-  <title>Dashboard</title>
+  <meta charset="UTF-8">
+  <title>Dashboard - Infinity Hub</title>
+  <link rel="stylesheet" href="css/style.css">
 </head>
+
 <body>
 
-<h1>Painel</h1>
+<div class="dashboard">
 
-<button onclick="ir('clientes')">Clientes</button>
-<button onclick="ir('agenda')">Agenda</button>
-<button onclick="ir('financeiro')">Financeiro</button>
+  <!-- SIDEBAR -->
+  <aside class="sidebar">
+    <h2>Infinity Hub</h2>
 
-<div id="conteudo"></div>
+    <button onclick="ir('clientes')">👤 Clientes</button>
+    <button onclick="ir('agenda')">📅 Agenda</button>
+    <button onclick="ir('financeiro')">💰 Financeiro</button>
+  </aside>
+
+  <!-- CONTEÚDO -->
+  <main class="content">
+    <h1>Painel</h1>
+    <div id="conteudo"></div>
+  </main>
+
+</div>
 
 <script src="js/dashboard.js"></script>
 
