@@ -47,7 +47,7 @@ O objetivo é oferecer uma solução simples, moderna e acessível para empreend
 
 Este projeto faz parte do portfólio de:
 
-**Vanessa Infinity Code – Assistência Remota & Soluções Digitais**
+**Vanessa Infinity Code – Vanessa do Santos**
 
 Focado em desenvolvimento de soluções digitais para negócios reais.
 
@@ -67,4 +67,4 @@ Focado em desenvolvimento de soluções digitais para negócios reais.
 
 ## 📞 Contato
 
-(Adicionar depois)
+(11) 96499-5899
